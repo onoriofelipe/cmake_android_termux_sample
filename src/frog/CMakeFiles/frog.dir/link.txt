@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/ar qc libfrog.a  CMakeFiles/frog.dir/src/frog.o
+/data/data/com.termux/files/usr/bin/ranlib libfrog.a

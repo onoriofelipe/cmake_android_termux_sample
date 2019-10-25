@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/frog/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/frog/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/frog/CMakeFiles/frog.dir

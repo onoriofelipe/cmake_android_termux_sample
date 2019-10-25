@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -fPIC   -shared -Wl,-soname,libfrog.so -o libfrog.so CMakeFiles/frog.dir/src/frog.cpp.o 

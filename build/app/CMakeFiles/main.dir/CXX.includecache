@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/app/src/main.cpp
+iostream
+-
+frog.hpp
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/app/src/frog.hpp
+
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/src/frog/include/frog.hpp
+

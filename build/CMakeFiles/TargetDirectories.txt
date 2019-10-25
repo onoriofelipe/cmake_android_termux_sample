@@ -1,0 +1,8 @@
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/frog/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/frog/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/frog/CMakeFiles/frog.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/app/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/app/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/app/CMakeFiles/main.dir

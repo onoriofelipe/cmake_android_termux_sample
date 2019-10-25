@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o  -o main -Wl,-rpath,/data/data/com.termux/files/home/random_projects/misc_cmake_test/build/frog ../frog/libfrog.so 
